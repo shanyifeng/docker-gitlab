@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-GITLAB_CLONE_URL=https://gitlab.com/gitlab-org/gitlab-foss.git
+GITLAB_CLONE_URL=https://gitlab.com/gitlab-org/gitlab.git
 GITLAB_SHELL_URL=https://gitlab.com/gitlab-org/gitlab-shell/-/archive/v${GITLAB_SHELL_VERSION}/gitlab-shell-v${GITLAB_SHELL_VERSION}.tar.bz2
 GITLAB_PAGES_URL=https://gitlab.com/gitlab-org/gitlab-pages.git
 GITLAB_GITALY_URL=https://gitlab.com/gitlab-org/gitaly.git
